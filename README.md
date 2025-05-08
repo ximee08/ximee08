@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/ximee08">Xime Herrera<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
@@ -12,7 +12,7 @@
 - 🤔: Mis lenguajes de programación son: Phyton y C++
 - 💬: Mi ciencia favorita es la física 
 - 😄  Pronouns: She/Her
-- ⚡  Fun fact: Estudio música desde ahce 8 años, soy oboista! 🎹
+- ⚡  Fun fact: Estudio música desde hace 8 años, soy oboista! 🎹
   
 <hr>
 <Br>
