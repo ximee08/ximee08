@@ -16,13 +16,10 @@
   
 
 <h1 align="center">Me puedes contactar acá! 🤸‍♂</h1>
-ximena@herrera.com
+hola@cole.com
 
   
 
-  
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fabdatum.com%2Fciencia%2Framas-fisica&psig=AOvVaw2pmK7YrqowqUcPmr5GP2Rt&ust=1746819387279000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCplbvPlI0DFQAAAAAdAAAAABAE"/>
-  
   
   
 <Br>
